@@ -1,9 +1,0 @@
-.mainbody-button-list {
-  list-style-type: none;
-  padding: 0;
-  display: flex;
-}
-
-.mainbody-button-list li {
-  margin-bottom: 10px; /* Adjust as needed */
-}
