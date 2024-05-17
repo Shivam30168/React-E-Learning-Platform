@@ -1,0 +1,22 @@
+.mainbody-heading{
+  text-align: center;
+  font-weight: bold;
+}
+.mainbody-heading2{
+  display: flex;
+  text-align: left;
+  font-weight: 500;
+  font-style: italic;
+  color: rgb(63, 38, 38);
+}
+.mainbody-button-list {
+  list-style-type: none;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  
+}
+
+.mainbody-button-list li {
+  margin-bottom: 10px; /* Adjust as needed */
+}

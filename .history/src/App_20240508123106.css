@@ -1,0 +1,45 @@
+.header {
+  position: relative;
+  z-index: 100; 
+}
+
+.sidebar {
+  position: fixed; 
+  width: 250px;
+  height: 100%;
+  background-color: #f0f0f0; 
+  transition: transform 0.3s ease;
+  z-index: 99; 
+}
+
+.footer {
+  position: relative;
+  z-index: 100; 
+}
+
+.hidden {
+  transform: translateX(-100%);
+}
+
+.visible {
+  transform: translateX(0);
+}
+
+
+.tree-view {
+  padding: 20px;
+ 
+}
+
+.offcanvas.show:not(.hiding) .Links{
+  margin: 20px;
+  border: 2px solid black;
+}
+.loginform-box{
+  border: 2px solid black;
+  margin: 10px;
+  padding: 5px;
+  width: 500px;
+  position: relative;
+  left: 400px;
+}

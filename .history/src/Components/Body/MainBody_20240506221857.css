@@ -1,0 +1,14 @@
+.data-itemlist{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.data-id{
+    margin-right: 4px;
+    margin-top: 10px;
+}
+.data-title{
+    margin-top: 10px;
+}

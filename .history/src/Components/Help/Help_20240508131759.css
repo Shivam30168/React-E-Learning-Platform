@@ -1,0 +1,9 @@
+.privacypolicy-box{
+    width: 80%;
+    justify-content: center;
+}
+.privacypolicy-para{
+    display: block;
+    margin-block-start: 10px;
+    
+}

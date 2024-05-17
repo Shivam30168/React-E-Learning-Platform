@@ -1,0 +1,18 @@
+.privacypolicy-box{
+    /* width: 600px; */
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+.privacypolicy-para{
+    display: block;
+    margin-block-start: 1em;   
+}
+.privacypolicy-head{
+    font-weight: bold;
+    font-size: large;
+    color: rgb(223, 110, 69);   
+}
+.privacypolicy-para a{
+    color: rgb(223, 110, 69);
+}

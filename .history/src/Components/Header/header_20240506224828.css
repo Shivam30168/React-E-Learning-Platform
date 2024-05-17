@@ -1,0 +1,8 @@
+.button:hover {
+    background-color: #0056b3;
+  }
+
+  a:hover {
+    text-decoration: underline;
+    /* cursor: pointer; */
+  }

@@ -1,0 +1,9 @@
+.react-cards{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+}
+.react-cards .card{
+    margin: 10px;
+    border: 4px solid black;
+}

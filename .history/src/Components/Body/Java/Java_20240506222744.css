@@ -1,0 +1,9 @@
+.java-cards{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    
+}
+.java-cards .card{
+    margin: 10px;
+}

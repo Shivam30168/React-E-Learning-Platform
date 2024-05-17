@@ -1,0 +1,31 @@
+.tree-view-container{
+  background-color: rgb(13, 32, 32);
+  width: 300px;
+  min-height: 100vh;
+  
+}
+
+.menu-item{
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+}
+.menu-list-container{
+  list-style: none;
+  
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 40px;
+}
+.display button{
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  
+}

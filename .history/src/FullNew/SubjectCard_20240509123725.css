@@ -1,0 +1,13 @@
+.java-cards{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    max-width: 50%;
+    max-height: 200px;
+    
+}
+.java-cards .card{
+    margin: 10px;
+    border: 4px solid black;
+}

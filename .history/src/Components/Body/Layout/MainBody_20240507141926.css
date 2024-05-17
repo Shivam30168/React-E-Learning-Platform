@@ -1,0 +1,14 @@
+.mainbody-heading{
+  text-align: center;
+  font-weight: bold;
+}
+.mainbody-button-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.mainbody-button-list li {
+  margin-bottom: 10px; /* Adjust as needed */
+}

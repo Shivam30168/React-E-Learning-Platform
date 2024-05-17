@@ -1,0 +1,43 @@
+.header {
+  position: relative;
+  z-index: 100; 
+}
+
+.sidebar {
+  position: fixed; 
+  width: 250px;
+  height: 100%;
+  background-color: #f0f0f0; 
+  transition: transform 0.3s ease;
+  z-index: 99; 
+}
+
+.footer {
+  position: relative;
+  z-index: 100; 
+}
+
+.hidden {
+  transform: translateX(-100%);
+}
+
+.visible {
+  transform: translateX(0);
+}
+
+
+.tree-view {
+  padding: 20px;
+ 
+}
+.offcanvas.show:not(.hiding){
+  /* background-color: rgb(64, 65, 65); */
+  text-align: left;
+  font-size: large;
+  width: 300px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}

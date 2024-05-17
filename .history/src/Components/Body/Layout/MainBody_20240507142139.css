@@ -1,0 +1,20 @@
+.mainbody-heading{
+  text-align: center;
+  font-weight: bold;
+}
+.mainbody-heading2{
+  text-align: left;
+  font-weight: 500;
+  font-style: italic;
+  color: rgb(224, 159, 159);
+}
+.mainbody-button-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.mainbody-button-list li {
+  margin-bottom: 10px; /* Adjust as needed */
+}
