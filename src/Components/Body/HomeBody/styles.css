@@ -15,21 +15,21 @@
     grid-template-columns: repeat(4,1fr);
     gap: 10px;
 }
-@media(max-width: 476px){
+@media(min-width: 476px){
   .product-container{
     
     grid-template-columns: 1fr;
     
 }
 }  
-@media(max-width: 708px){
+@media(min-width: 708px){
   .product-container{
     
     grid-template-columns: repeat(2, 1fr);
     
 }
 }  
-@media(max-width: 992px){
+@media(min-width: 992px){
   .product-container{
     
     grid-template-columns: repeat(3, 1fr);
